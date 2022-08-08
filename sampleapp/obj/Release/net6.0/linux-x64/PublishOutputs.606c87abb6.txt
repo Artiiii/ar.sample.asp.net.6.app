@@ -1,0 +1,15 @@
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\sampleapp
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\aws-lambda-tools-defaults.json
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\bundleconfig.json
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\sampleapp.deps.json
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\sampleapp.runtimeconfig.json
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\sampleapp.pdb
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\Amazon.Lambda.AspNetCoreServer.dll
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\Amazon.Lambda.Logging.AspNetCore.dll
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Amma\source\repos\sampleapp\sampleapp\bin\Release\net6.0\publish\sampleapp.dll
